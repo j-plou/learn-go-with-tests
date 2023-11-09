@@ -1,6 +1,6 @@
 # Learn GO with tests
 
-This repository contains the code related to the exercised proposed at [Learn GO with tests](https://quii.gitbook.io/learn-go-with-tests/)
+This repository contains the code related to the exercises proposed at [Learn GO with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ## Requirements
 
