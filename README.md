@@ -11,13 +11,13 @@ This repository contains the code related to the exercises proposed at [Learn GO
 - Run all tests:
 
 ```shell
-go test ./...
+go test ./... [-cover]
 ```
 
 - Run module tests:
 
 ```shell
-go test ./module-folder
+go test ./module-folder [-cover]
 ```
 
 - Run benchmark: (only `BenchmarkRepeat` in `iteration` module right now)
